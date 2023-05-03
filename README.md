@@ -3,7 +3,7 @@
 
 <h3>- 👀 I’m interested in helping anyone struggling in some problems. And I love to learn new technology for an enhancement favor.
 
-I am skilled at various of languages and stacks.
+I am skilled at various kinds of languages and stacks.
 ![image](https://user-images.githubusercontent.com/132387468/235830749-9f3bf5c7-4754-4191-b98d-8abd6cff2739.png)
 <p>&#9989; PHP (Laravel, CodeIgniter)</p>
 <p>&#9989; MERN (MongoDB, Express, Node, React)</p>
